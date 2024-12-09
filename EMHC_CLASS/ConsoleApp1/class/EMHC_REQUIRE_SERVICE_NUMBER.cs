@@ -1,6 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Security.Cryptography;
 
 namespace ConsoleApp1
 {
@@ -48,6 +49,7 @@ namespace ConsoleApp1
         /// </summary>
         [Required]
         public int CATEGORY { get; set; }
+
 
         /// <summary>
         /// 應有人數

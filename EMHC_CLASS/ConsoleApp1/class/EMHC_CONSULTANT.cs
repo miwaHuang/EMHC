@@ -48,7 +48,7 @@ namespace ConsoleApp1
         /// <summary>
         /// 人次
         /// </summary>
-        public int? NUMBER { get; set; }
+        public decimal? NUMBER { get; set; }
 
         /// <summary>
         /// 建立人員

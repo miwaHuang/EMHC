@@ -1,9 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\\u7DCA\u6025\u91AB\u7642\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\EMHC\\EMHC_CLASS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55DC5CDD-EC00-4BB5-8DC3-EBEC5622C415}|ConsoleApp1\\ConsoleApp1.csproj|c:\\\u7DCA\u6025\u91AB\u7642\\consoleapp1\\consoleapp1\\class\\emhc_unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55DC5CDD-EC00-4BB5-8DC3-EBEC5622C415}|ConsoleApp1\\ConsoleApp1.csproj|c:\\emhc\\emhc_class\\consoleapp1\\class\\emhc_consultant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DC5CDD-EC00-4BB5-8DC3-EBEC5622C415}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\emhc_consultant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DC5CDD-EC00-4BB5-8DC3-EBEC5622C415}|ConsoleApp1\\ConsoleApp1.csproj|c:\\emhc\\emhc_class\\consoleapp1\\class\\emhc_require_service_number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DC5CDD-EC00-4BB5-8DC3-EBEC5622C415}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\emhc_require_service_number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DC5CDD-EC00-4BB5-8DC3-EBEC5622C415}|ConsoleApp1\\ConsoleApp1.csproj|c:\\emhc\\emhc_class\\consoleapp1\\class\\emhc_acs_doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DC5CDD-EC00-4BB5-8DC3-EBEC5622C415}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\emhc_acs_doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DC5CDD-EC00-4BB5-8DC3-EBEC5622C415}|ConsoleApp1\\ConsoleApp1.csproj|c:\\emhc\\emhc_class\\consoleapp1\\class\\emhc_stroke_doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DC5CDD-EC00-4BB5-8DC3-EBEC5622C415}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\emhc_stroke_doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DC5CDD-EC00-4BB5-8DC3-EBEC5622C415}|ConsoleApp1\\ConsoleApp1.csproj|c:\\emhc\\emhc_class\\consoleapp1\\class\\emhc_unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55DC5CDD-EC00-4BB5-8DC3-EBEC5622C415}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\emhc_unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,10 +35,62 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EMHC_CONSULTANT.cs",
+              "DocumentMoniker": "C:\\EMHC\\EMHC_CLASS\\ConsoleApp1\\class\\EMHC_CONSULTANT.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\class\\EMHC_CONSULTANT.cs",
+              "ToolTip": "C:\\EMHC\\EMHC_CLASS\\ConsoleApp1\\class\\EMHC_CONSULTANT.cs",
+              "RelativeToolTip": "ConsoleApp1\\class\\EMHC_CONSULTANT.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwDAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:18:11.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EMHC_REQUIRE_SERVICE_NUMBER.cs",
+              "DocumentMoniker": "C:\\EMHC\\EMHC_CLASS\\ConsoleApp1\\class\\EMHC_REQUIRE_SERVICE_NUMBER.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\class\\EMHC_REQUIRE_SERVICE_NUMBER.cs",
+              "ToolTip": "C:\\EMHC\\EMHC_CLASS\\ConsoleApp1\\class\\EMHC_REQUIRE_SERVICE_NUMBER.cs",
+              "RelativeToolTip": "ConsoleApp1\\class\\EMHC_REQUIRE_SERVICE_NUMBER.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:38:38.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EMHC_ACS_DOCTOR.cs",
+              "DocumentMoniker": "C:\\EMHC\\EMHC_CLASS\\ConsoleApp1\\class\\EMHC_ACS_DOCTOR.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\class\\EMHC_ACS_DOCTOR.cs",
+              "ToolTip": "C:\\EMHC\\EMHC_CLASS\\ConsoleApp1\\class\\EMHC_ACS_DOCTOR.cs",
+              "RelativeToolTip": "ConsoleApp1\\class\\EMHC_ACS_DOCTOR.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:13:16.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EMHC_STROKE_DOCTOR.cs",
+              "DocumentMoniker": "C:\\EMHC\\EMHC_CLASS\\ConsoleApp1\\class\\EMHC_STROKE_DOCTOR.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\class\\EMHC_STROKE_DOCTOR.cs",
+              "ToolTip": "C:\\EMHC\\EMHC_CLASS\\ConsoleApp1\\class\\EMHC_STROKE_DOCTOR.cs",
+              "RelativeToolTip": "ConsoleApp1\\class\\EMHC_STROKE_DOCTOR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:13:06.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EMHC_UNIT.cs",
-              "DocumentMoniker": "C:\\\u7DCA\u6025\u91AB\u7642\\ConsoleApp1\\ConsoleApp1\\class\\EMHC_UNIT.cs",
+              "DocumentMoniker": "C:\\EMHC\\EMHC_CLASS\\ConsoleApp1\\class\\EMHC_UNIT.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\class\\EMHC_UNIT.cs",
-              "ToolTip": "C:\\\u7DCA\u6025\u91AB\u7642\\ConsoleApp1\\ConsoleApp1\\class\\EMHC_UNIT.cs",
+              "ToolTip": "C:\\EMHC\\EMHC_CLASS\\ConsoleApp1\\class\\EMHC_UNIT.cs",
               "RelativeToolTip": "ConsoleApp1\\class\\EMHC_UNIT.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
